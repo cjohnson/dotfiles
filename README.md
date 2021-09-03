@@ -6,3 +6,5 @@ My dotfile repo, really not much more than that. Info below!
 Requirements:
 - zsh
   - Uses the ohmyzsh project
+- neovim
+  - Uses spacevim project
