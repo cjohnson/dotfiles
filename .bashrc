@@ -17,8 +17,6 @@ PS1='[\u@\h \W]\$ '
 
 # Development Utilities
 PATH="$PATH:/home/cj/.local/bin"
-PATH="$PATH:/home/cj/scripts"
-PATH="$PATH:/home/cj/.config/nvim/utils/bin"
 
 # Development Libraries
 PATH="$PATH:/opt/flutter/bin"

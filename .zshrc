@@ -7,8 +7,6 @@ set -o vi
 
 # $PATH settings
 PATH="$PATH:/home/cj/.local/bin"
-PATH="$PATH:/home/cj/scripts"
-PATH="$PATH:/home/cj/.config/nvim/utils/bin"
 
 PATH="$PATH:/opt/flutter/bin"
 
